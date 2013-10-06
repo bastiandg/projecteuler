@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 #Title: Odd period square roots
 import math
-import numpy
 from gmpy import is_square
 from fractions import gcd
 
