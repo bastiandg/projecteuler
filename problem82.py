@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-#Title: Path sum: two ways
+#Title: Path sum: three ways
 
 import sys
 limit = 10
