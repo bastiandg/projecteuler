@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#Title:
+#Title: Arithmetic expressions
 
 import itertools
 
