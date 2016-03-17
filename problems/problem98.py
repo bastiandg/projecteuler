@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Title: Anagramic squares
 import math
 import sys
 
