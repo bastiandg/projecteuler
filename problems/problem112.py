@@ -12,7 +12,6 @@ def bouncy(n):
 	tmp = tmp // 10
 	while tmp >= 1:
 		digit = tmp % 10
-		# print(digit)
 		if digit > digitList[-1]:
 			up = True
 		elif digit < digitList[-1]:
@@ -20,6 +19,7 @@ def bouncy(n):
 		digitList.append(digit)
 		tmp = tmp // 10
 	return up and down
+
 
 ratio = 0.99
 i = 0
@@ -35,4 +35,3 @@ while True:
 	i += 1
 
 print("i %i bouncyCount %i" % (i, bouncyCount))
-
